@@ -1,4 +1,5 @@
 
+#find average of n numbers
 
 def averageNumbers():
     num = int(input("Enter numbers "))
