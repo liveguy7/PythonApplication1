@@ -1,16 +1,11 @@
 import sys
 
-num = input('How many number? ')
-num = int(num)
-total_sum = 0
+n = input("Enter number: ")
+n = int(n)
 
-for n in range(num):
-    numbers = float(input("Enter any number "))
-    total_sum  = total_sum + numbers
+sum = (n * (n + 1)) / 2
 
-
-avg = total_sum / num
-print("The average is {0}".format(avg))
+print(sum)
 
 
 
