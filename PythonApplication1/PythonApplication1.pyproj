@@ -29,6 +29,7 @@
     <Compile Include="module6.py" />
     <Compile Include="module7.py" />
     <Compile Include="module8.py" />
+    <Compile Include="module9.py" />
     <Compile Include="PythonApplication1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
