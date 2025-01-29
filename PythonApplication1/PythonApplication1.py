@@ -1,4 +1,7 @@
-import datetime
+import sys
+from module1 import averageNumbers
 
-now = datetime.datetime.now()
-print(now.strftime("%y-%m-%d"))
+averageNumbers()
+
+
+
